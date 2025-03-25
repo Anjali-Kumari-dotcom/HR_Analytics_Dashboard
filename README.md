@@ -88,9 +88,3 @@ Data Visualization Tools: Power BI
 Data Processing: Excel
 
 Dataset: HR Employee Records
-
-How to Use
-
-
-
-
